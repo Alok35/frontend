@@ -1,0 +1,42 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.navbar {
+  background-color: #e0e0e0;
+}
+
+.bg-light {
+  background-color: #c0c0c0;
+}
+
+.card-header {
+  background-color: #d3d3d3;
+}
+
+.card-body {
+  background-color: #ffffff;
+}
+
+.btn-outline-secondary {
+  border-color: #b0b0b0;
+  color: #000;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #b0b0b0;
+}
+
+.AdminDashboard-placeholder {
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .navbar .navbar-brand {
+    text-align: center;
+  }
+
+  .navbar .d-flex {
+    margin-left: 0;
+  }
+}

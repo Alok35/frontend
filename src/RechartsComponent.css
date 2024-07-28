@@ -1,0 +1,16 @@
+.charts-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.chart-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.chart-item {
+  flex: 1;
+  min-width: 300px;
+}

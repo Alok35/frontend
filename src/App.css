@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #d3d3d3;
+}
+
+.navbar-brand {
+  color: #000;
+}
+
+.btn-outline-secondary {
+  border-color: #000;
+  color: #000;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #e0e0e0;
+  color: #000;
+}
